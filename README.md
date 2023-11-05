@@ -22,6 +22,9 @@
   <a href="https://codepen.io/borab2001" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
+  <a href="https://www.figma.com/@borab2001" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52" height="40" alt="figma logo"  />
+  </a>
 </div>
 
 ###
