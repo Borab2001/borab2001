@@ -7,22 +7,22 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/bora-balos/" target="_blank" class="social-link">
+  <a href="https://www.linkedin.com/in/bora-balos/" target="_blank" style="color: transparent !important">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/borab0302" target="_blank" class="social-link">
+  <a href="https://twitter.com/borab0302" target="_blank" style="color: transparent !important">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/borab2001/" target="_blank" class="social-link">
+  <a href="https://www.instagram.com/borab2001/" target="_blank" style="color: transparent !important">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://dribbble.com/Borab2001" target="_blank" class="social-link">
+  <a href="https://dribbble.com/Borab2001" target="_blank" style="color: transparent !important">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
   </a>
-  <a href="https://codepen.io/borab2001" target="_blank" class="social-link">
+  <a href="https://codepen.io/borab2001" target="_blank" style="color: transparent !important">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
-  <a href="https://www.figma.com/@borab2001" target="_blank" class="social-link">
+  <a href="https://www.figma.com/@borab2001" target="_blank" style="color: transparent !important">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52" height="40" alt="figma logo"  />
   </a>
 </div>
@@ -88,8 +88,3 @@
 
 ###
 -->
-<style>
-  a.social-link{
-    color: transparent !important;
-  }
-</style>
