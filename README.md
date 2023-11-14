@@ -89,8 +89,7 @@
 ###
 -->
 <style>
-  .social-link::after{
-    background-color: transparent !important;
+  a.social-link{
     color: transparent !important;
   }
 </style>
