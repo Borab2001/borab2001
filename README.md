@@ -4,7 +4,7 @@
 
 <p align="left">I'm Bora, a french Computer Science student at ISEP Paris 🇫🇷 & University of Sydney 🇦🇺. <br><br>✨ Passionate about creating innovative designs & animations.<br>🧑🏻‍💻 Really like taking on ambitious and diverse projects.<br><br>💡 I have numerous ambitious projects on the horizon. <br>🚀 Check out my <a href="https://www.borabalos.com/" target="_blank">portfolio</a> to learn more about me.<br><br>📣 Started an internship at Capgemini in February 2024</p>
 
-###
+<!-- ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bora-balos/" target="_blank" style="display: inline-block">
@@ -29,7 +29,7 @@
 
 ###
 
-<!-- <h2 align="left">Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
