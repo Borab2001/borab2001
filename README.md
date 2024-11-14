@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Bora, a french Computer Science student at ISEP Paris 🇫🇷 & University of Sydney 🇦🇺. <br><br>✨ Passionate about creating innovative designs & animations.<br>🧑🏻‍💻 Really like taking on ambitious and diverse projects.<br><br>💡 I have numerous ambitious projects on the horizon. <br>🚀 Check out my <a href="https://www.borabalos.com/" target="_blank">portfolio</a> to learn more about me.<br><br>📣 Open to opportunities for a Software Engineer / Front-End role</p>
+<p align="left">I'm Bora, a french Computer Science gradute from ISEP Paris 🇫🇷 & University of Sydney 🇦🇺. <br><br>✨ Passionate about creating innovative designs & animations.<br>🧑🏻‍💻 Really like taking on ambitious and diverse projects.<br><br>💡 I have numerous ambitious projects on the horizon. <br>🚀 Check out my <a href="https://www.borabalos.com/" target="_blank">portfolio</a> to learn more about me.<br><br>📣 Open to opportunities for a Software Engineer / Front-End role</p>
 
 <!-- ###
 
