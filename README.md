@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Bora, a french Computer Science student from ISEP Paris 🇫🇷 & University of Sydney 🇦🇺. <br><br>✨ Passionate about creating innovative designs & animations.<br>🧑🏻‍💻 Working with NextJS, Framer Motion & Figma.<br><br>💡 I have numerous projects on the horizon. <br>🚀 Check out my <a href="https://www.borabalos.com/" target="_blank">portfolio</a> to learn more about me.
+<p align="left">I'm Bora, a french Computer Science student from ISEP Paris 🇫🇷 & University of Sydney 🇦🇺. <br><br>✨ Passionate about creating innovative designs & animations.<br>🧑🏻‍💻 Working with NextJS, Framer Motion & Figma.<br><br>💡 I have numerous projects on the horizon. <br>🚀 Check out my <a href="https://www.borabalos.com/" target="_blank">website</a> to learn more about me.
 
 <!-- ###
 
